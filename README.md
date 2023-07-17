@@ -1,25 +1,25 @@
-# LocalHTTPServer
+# HTTP-LocalServer
 ### [+] Created By <a href="https://github.com/AbdulazizDXT">AbdulazizDXT</a>
 ### [+] Description :
-***LocaLHTTPServer is a tool to create a simple http server in local network. Anyone under same wifi/router can access the folder you shared.***
+***HTTP-LocalServer is a tool to create a simple http server in local network. Anyone under same wifi/router can access the folder you shared.***
 <h2 align="center">Share files under same Wi-Fi!</h2>
 
 ### [+] Installation
 
 
-```git clone https://github.com/AbdulazizDXT/httpserver```
+```git clone https://github.com/AbdulazizDXT/HTTP-LocalServer```
 
-```cd httpserver```
+```cd HTTP-LocalServer```
 
 ```chmod +x hs.py```
 
 ```python hs.py```
 
 ### Or 
-#### Download executable file from <a href="https://github.com/AbdulazizDXT/httpserver/releases/download/v1.0-beta/hs.exe">Releases</a>
+#### Download executable file from <a href="https://github.com/AbdulazizDXT/HTTP-LocalServer/releases/download/v1.0-beta/hs.exe">Releases</a>
 ### Or, Use Single Command
 ```
-git clone https://github.com/AbdulazizDXT/httpserver && cd httpserver && chmod +x hs.py && python hs.py
+git clone https://github.com/AbdulazizDXT/HTTP-LocalServer && cd httpserver && chmod +x hs.py && python hs.py
 ```
 ### You can change both port and shared folder. Without change default port will be 8000 and default folder will be the folder from which the file is executed!
 
