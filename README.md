@@ -19,7 +19,7 @@
 #### Download executable file from <a href="https://github.com/AbdulazizDXT/HTTP-LocalServer/releases/download/v1.0-beta/hs.exe">Releases</a>
 ### Or, Use Single Command
 ```
-git clone https://github.com/AbdulazizDXT/HTTP-LocalServer && cd httpserver && chmod +x hs.py && python hs.py
+git clone https://github.com/AbdulazizDXT/HTTP-LocalServer && cd HTTP-LocalServer && chmod +x hs.py && python hs.py
 ```
 ### You can change both port and shared folder. Without change default port will be 8000 and default folder will be the folder from which the file is executed!
 
